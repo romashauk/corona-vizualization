@@ -1,0 +1,26 @@
+@import '../../styling/colorsPalette.scss';
+
+.newsContainer {
+  display: flex;
+  max-width: 500px;
+  margin: 0 auto;
+  flex-direction: column;
+  padding: 1rem 0;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+}
+
+.newsCounter {
+  border-radius: 50%;
+  color: white;
+  width: 25px;
+  font-size: 12px;
+  height: 25px;
+  background: silver;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

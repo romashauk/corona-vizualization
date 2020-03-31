@@ -1,0 +1,137 @@
+{
+  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--7-1!node_modules/antd/dist/antd.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--8-rules-1-oneOf-0!node_modules/sass-loader/lib/loader.js??ref--8-rules-2!src/styling/app.global.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--8-rules-1-oneOf-1!node_modules/sass-loader/lib/loader.js??ref--8-rules-2!src/containers/WorldMap/styles.module.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--8-rules-1-oneOf-1!node_modules/sass-loader/lib/loader.js??ref--8-rules-2!src/containers/NewsPage/styles.module.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--8-rules-1-oneOf-1!node_modules/sass-loader/lib/loader.js??ref--8-rules-2!src/components/Loader/styles.module.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "modules": {
+    "byIdentifier": {
+      "css node_modules/css-loader/index.js??ref--8-rules-1-oneOf-0!node_modules/sass-loader/lib/loader.js??ref--8-rules-2!node_modules/antd/dist/antd.css 0": 0,
+      "css node_modules/css-loader/index.js??ref--8-rules-1-oneOf-0!node_modules/sass-loader/lib/loader.js??ref--8-rules-2!src/styling/app.global.scss 0": 1,
+      "css node_modules/css-loader/index.js??ref--8-rules-1-oneOf-0!node_modules/sass-loader/lib/loader.js??ref--8-rules-2!src/styling/app.global.scss 1": 2,
+      "css node_modules/css-loader/index.js??ref--7-1!node_modules/antd/dist/antd.css 0": 3,
+      "css node_modules/css-loader/index.js??ref--8-rules-1-oneOf-1!node_modules/sass-loader/lib/loader.js??ref--8-rules-2!src/containers/NewsPage/styles.module.scss 0": 4,
+      "css node_modules/css-loader/index.js??ref--8-rules-1-oneOf-1!node_modules/sass-loader/lib/loader.js??ref--8-rules-2!src/components/Loader/styles.module.scss 0": 5,
+      "css node_modules/css-loader/index.js??ref--8-rules-1-oneOf-1!node_modules/sass-loader/lib/loader.js??ref--8-rules-2!src/containers/WorldMap/styles.module.scss 0": 6
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6
+    }
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "styles": 2,
+      "static/qRn06k71lGDdT-hqs-3YT/pages/_app.js": 3,
+      "static/qRn06k71lGDdT-hqs-3YT/pages/_error.js": 4,
+      "static/qRn06k71lGDdT-hqs-3YT/pages/index.js": 5,
+      "static/qRn06k71lGDdT-hqs-3YT/pages/news.js": 6,
+      "static/runtime/main.js": 7,
+      "static/runtime/polyfills.js": 8
+    },
+    "bySource": {
+      "0 node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/index.tsx ../src/containers/WorldMap": 0,
+      "1 node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/index.tsx ../src/containers/WorldMap": 2,
+      "2 node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/index.tsx ../src/containers/WorldMap": 9
+    },
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+}

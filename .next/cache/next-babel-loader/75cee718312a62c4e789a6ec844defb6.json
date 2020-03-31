@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\nimport NewsPage from '../src/containers/NewsPage'; // import Layout from '../src/containers/Layout/Layout';\n\nvar News = function News(props) {\n  return __jsx(NewsPage, null);\n};\n\nexport default News;","map":null,"metadata":{},"sourceType":"module"}
